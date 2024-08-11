@@ -2,6 +2,11 @@
 
 # License Plate Detector
 
+
+![Screenshot 2024-08-11 184846](https://github.com/user-attachments/assets/ab21312f-6dde-4b69-89b9-da19c4b86c4c)
+![Screenshot 2024-08-11 185027](https://github.com/user-attachments/assets/e09d1a92-1a8f-4e1b-8579-efae8d63fb5d)
+
+
 ## Overview
 The **License Plate Detector** is an OpenCV-based project that detects license plates in real-time using a webcam. This project uses the Haar Cascade classifier, specifically trained for Russian license plates, to identify and extract license plates from the video feed.
 
